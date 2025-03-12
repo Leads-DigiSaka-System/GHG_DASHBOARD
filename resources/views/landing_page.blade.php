@@ -17,7 +17,7 @@
                 <div style="background-color: #28c76f; height: 80vh;" class="carousel-item">
                     <div class="container">
                         <!-- Main Content Section -->
-                        <div class="main-content">
+                        <div class="main-content" style="margin-top: 100px">
                             <div class="w-50 py-5">
                                 <h1 class="text-light display-2 fw-bolder">Same Yield, Less Emitted Carbon, More Income</h1>
                                 <p class="fs-4 fw-normal">
