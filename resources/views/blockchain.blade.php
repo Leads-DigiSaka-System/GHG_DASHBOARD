@@ -10,7 +10,7 @@
                 <div class="w-50 py-5">
                     <h1 class="text-light display-2 fw-bolder">Secure and scalable blockchain</h1>
                     <p class="fs-4 fw-normal">
-                        GHG delivers a permissioned blockchain designed for global food supply chains.Its enterprise-grade security and data governance ensure your information is protected and well-managed.
+                        GHG offers a secure and scalable permissioned blockchain tailored for global food supply chains. Designed with enterprise-grade security and robust data governance, it ensures your information remains protected and efficiently managed.
                     </p>
                 </div>
             </div>
@@ -23,10 +23,10 @@
                 <div class="flex-fill">
                     <div class="fs-1">Millions of Business Transactions</div>
                     <p class="fs-4 pe-5 pb-4">
-                        Every day, GHG’s blockchain records business operations for millions of products.
+                        GHG’s blockchain seamlessly records millions of business transactions daily, ensuring transparency and efficiency across global supply chains.
                     </p>
                     <p class="fs-4 pe-5">
-                        Since blockchain technology operates seamlessly in the background, it doesn’t hinder adoption. Thousands of farmers use it daily—many without even realizing they are interacting with blockchain.
+                        Operating in the background, it enables widespread adoption—thousands of farmers use it every day, often without even realizing they are interacting with blockchain technology.
                     </p>
 
                     <a href="#" class="btn btn-success p-3">Blockchain Explorer </a>
@@ -44,13 +44,13 @@
                 <div class="col">
                     <div class="fs-1">Decentralized ledger with hundreds of nodes</div>
                     <p class="fs-4 py-4">
-                        A major benefit of blockchain technology is its decentralized network of nodes. The TrustChain operates through hundreds of nodes distributed across multiple countries worldwide.
+                        A key advantage of blockchain technology is its decentralized network of nodes. TrustChain operates across hundreds of nodes in multiple countries, ensuring global transparency and security.
                     </p>
                     <p class="fs-4">
-                        Some nodes are managed by supply chain companies (Supernodes), while others are operated by the consumer community (Masternodes), creating a global partnership between industry and consumers to enhance efficiency and transparency.
+                        Supply chain companies manage Supernodes, while consumers operate Masternodes, fostering a collaborative ecosystem that enhances efficiency and trust between industries and consumers.
                     </p>
                     <p class="fs-4">
-                        GHG operates as a public-permissioned blockchain. Data marked as “public” by food companies can be viewed on the blockchain explorer, while adding new data or verifying transactions requires authorization for enhanced security.
+                        GHG functions as a public-permissioned blockchain, allowing food companies to make selected data publicly viewable through the blockchain explorer. However, adding new data or verifying transactions requires authorization, ensuring robust security and governance.
                     </p>
                 </div>
                 

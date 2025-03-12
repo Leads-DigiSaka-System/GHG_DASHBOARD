@@ -20,6 +20,7 @@ Route::middleware('prevent-back-history')->group(function () {
     Route::get('/dual-monitoring', fn() => view('dual_monitoring'))->name('dual_monitoring');
     Route::get('/multidisciplinary-approach', fn() => view('multidisciplinary'))->name('multidisciplinary_approach');
     Route::get('/our-framework', fn() => view('our_framework'))->name('our_framework');
+    Route::get('/contact-us', fn() => view('contact_us'))->name('contact_us');
 
     Route::get('/blockchain', fn() => view('blockchain'))->name('blockchain');
 
