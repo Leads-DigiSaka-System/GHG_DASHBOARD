@@ -92,8 +92,51 @@
                 </div>
             </div>
         </div>
+        <div class="container mt-3 pt-2">
+            <h1>Partners and project farms</h1>
 
-        <div class="container mt-5 pt-5">
+            <div class="container mt-4 pt-4">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h1 class="fw-bold">Strategic Partnerships</h1>
+                        <div class="fs-5 fw-light pb-5">
+                            Advancing agricultural innovation through collaboration.
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <h1 class="fw-bold">Research & Capacity Building</h1>
+                    </div>
+                </div>
+                <div class="row row-cols-md-2">
+                    <div class="col d-flex align-items-stretch">
+                        <div class="card p-3">
+                            <div class="card-body">
+                                <h1 class="display-4">SEARCA Partnership</h1>
+                                <ul>
+                                    <li class="fs-4 list-group-item border-0"> <i class="fas fa-check"></i> Capacity-building programs to empower agricultural stakeholders with knowledge and skills</li>
+                                    <li class="fs-4 list-group-item border-0"> <i class="fas fa-check"></i> Pilot projects implementing climate-smart farming techniques</li>
+                                    <li class="fs-4 list-group-item border-0"> <i class="fas fa-check"></i> Collaborative training initiatives to enhance sustainable agriculture practices</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+            
+                    <div class="col d-flex align-items-stretch">
+                        <div class="card p-3">
+                            <div class="card-body">
+                                <h1 class="display-4">IRRI Partnership</h1>
+                                <ul class="list-group">
+                                    <li class="fs-4 list-group-item border-0"> <i class="fas fa-check"></i> Calibration of methane emission sensors for accurate greenhouse gas monitoring</li>
+                                    <li class="fs-4 list-group-item border-0"> <i class="fas fa-check"></i> Field validation of sensor-based emissions tracking methodologies</li>
+                                    <li class="fs-4 list-group-item border-0"> <i class="fas fa-check"></i> Integration of advanced sensor technologies to support climate-resilient agriculture</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container pt-2">
 
             <div class="row row-cols-1 row-cols-md-2 g-4">
                 <div class="col">
